@@ -10,7 +10,7 @@
 ## 🗺️ Learning Areas
 | Area | Repo |
 |------|------|
-| JavaScript Advanced | [js-in-depth](https://camtam1706.github.io/js-in-depth/) |
+| JavaScript Advanced | [learn-js-in-depth](https://camtam1706.github.io/learn-js-in-depth/) |
 | DSA | [dsa-js](https://github.com/camtam1706/dsa-js) |
 | System Design | [system-design](https://github.com/camtam1706/system-design) |
 | TypeScript & Patterns | [ts-patterns](https://github.com/camtam1706/ts-patterns) |
