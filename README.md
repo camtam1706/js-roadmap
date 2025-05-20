@@ -19,7 +19,8 @@
 ---
 
 ## 📆 Progress Tracker
-| Day | JavaScript | DSA | System Design | Review |
+| Day | JavaScript/Core | DSA | System Design | Review |
 |-----|------------|-----|---------------|--------|
 | 1   |    ✅     |  ✅ |      ❌      |   ✅   |
+| 2   |    ✅     |  ❌ |      ❌      |   ❌   |
 
