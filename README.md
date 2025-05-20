@@ -1,4 +1,4 @@
-# 🧠 JavaScript Roadmap - 90 Day Journey
+# 🧠 JavaScript Roadmap - Journey
 
 ## ⏳ Schedule
 - ⏰ Morning (4h): JavaScript in-depth (Educative.io)
