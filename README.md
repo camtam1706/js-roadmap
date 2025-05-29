@@ -16,7 +16,7 @@
 | TypeScript & Patterns | [ts-patterns](https://github.com/camtam1706/ts-patterns) |
 | DSA | [learn-dsa](https://camtam1706.github.io/learn-dsa/) |
 | System Design | [system-design](https://github.com/camtam1706/system-design) |
-| API Design |  |
+| API Design | [API-design](https://camtam1706.github.io/learn-api-design/) |
 | Design Using OOD Principles |  |
 | Leadership |  |
 | Real Projects | [ecommerce-mvp](https://github.com/camtam1706/ecommerce-mvp) |
@@ -24,11 +24,12 @@
 ---
 
 ## 📆 Progress Tracker
-| Day | JavaScript/Core | DSA | System Design | Review |
-|-----|------------|-----|---------------|--------|
-| 1   |    ✅     |  ✅ |      ❌      |   ✅   |
-| 2   |    ✅     |  ❌ |      ❌      |   ✅   |
-| 3   |    ✅     |  ❌ |      ❌      |   ✅   |
-| 4   |    ✅     |  ❌ |      ❌      |   ✅   |
-| 5   |    ✅     |  ❌ |      ❌      |   ✅   |
+| Day | JavaScript/Core | API Design | DSA | System Design | Review |
+|-----|-----------------|------------|-----|---------------|--------|
+| 1   | ✅             | ❌         | ✅ | ❌            | ✅    |
+| 2   | ✅             | ❌         | ❌ | ❌            | ✅    |
+| 3   | ✅             | ❌         | ❌ | ❌            | ✅    |
+| 4   | ✅             | ❌         | ❌ | ❌            | ✅    |
+| 5   | ✅             | ❌         | ❌ | ❌            | ✅    |
+| 6   | ✅             | ✅         | ✅ | ❌            | ✅    |
 
