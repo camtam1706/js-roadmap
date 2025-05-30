@@ -20,7 +20,7 @@
 | API Design | [API-design](https://camtam1706.github.io/learn-api-design/) |
 | Design Using OOD Principles |  |
 | Leadership |  |
-| Real Projects | [ecommerce-mvp](https://github.com/camtam1706/ecommerce-mvp) |
+| Domains |  |
 
 ---
 
