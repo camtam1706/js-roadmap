@@ -1,12 +1,3 @@
-# 🧠 JavaScript Roadmap - Journey
-
-## ⏳ Schedule
-- ⏰ Morning (4h): JavaScript in-depth (Educative.io)
-- 🧠 Afternoon (4h): DSA in JavaScript (Grokking / LeetCode)
-- 🌙 Night (1h): Review, summary & Git commit
-
----
-
 ## 🗺️ Learning Areas
 | Area | Repo |
 |------|------|
