@@ -1,13 +1,13 @@
 ## 🗺️ Learning Areas
 | Area | Repo |
 |------|------|
-| JavaScript Advanced | [learn-js-in-depth](https://camtam1706.github.io/learn-js-in-depth/) |
+| JavaScript Advanced | [Js-in-depth](https://camtam1706.github.io/learn-js-in-depth/) |
 | ReactJS/NextJS | |
 | NodeJS/NestJS |  |
-| TypeScript & Patterns | [ts-patterns](https://github.com/camtam1706/ts-patterns) |
-| DSA | [learn-dsa](https://camtam1706.github.io/learn-dsa/) |
-| Distributed Systems for Practitioners | [learn-dsp](https://camtam1706.github.io/learn-dsp/) |
-| System Design | [system-design](https://github.com/camtam1706/system-design) |
+| TypeScript & Patterns | [Ts-patterns](https://github.com/camtam1706/ts-patterns) |
+| DSA | [DSA](https://camtam1706.github.io/learn-dsa/) |
+| Distributed Systems for Practitioners | [DSP](https://camtam1706.github.io/learn-dsp/) |
+| System Design | [System-design](https://github.com/camtam1706/system-design) |
 | API Design | [API-design](https://camtam1706.github.io/learn-api-design/) |
 | Design Using OOD Principles | [Design-OOD](https://camtam1706.github.io/learn-ood-principles/) |
 | Leadership |  |
